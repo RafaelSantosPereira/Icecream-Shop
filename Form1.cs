@@ -38,16 +38,18 @@ namespace M7_ficheiros_progeto_final
         int indexmor = 0;
         int indexoreo = 0;
         int indexbteditar = 0;
-
+        
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-            if (File.Exists(caminho))
+
+            if (File.Exists("ficheiro.txt") == false)
             {
-                mostrar_grelha();
-                
+                FileStream ficheiro = new FileStream("ficheiro.txt", FileMode.Create, FileAccess.Write);
+                ficheiro.Close();
             }
-               
+            else
+                mostrar_grelha();
+
         }
         
 
