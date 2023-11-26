@@ -1,0 +1,66 @@
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe.config
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.pdb
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.AssemblyReference.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.SuggestedBindingRedirects.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Form1.resources
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Properties.Resources.resources
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.GenerateResource.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.CoreCompileInputs.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.exe
+C:\Users\11PGPS2\Desktop\progetos psi\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.pdb
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe.config
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.pdb
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.AssemblyReference.cache
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Form1.resources
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Properties.Resources.resources
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.GenerateResource.cache
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.exe
+C:\Users\Rafael Pereira\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.pdb
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe.config
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.pdb
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.AssemblyReference.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.SuggestedBindingRedirects.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Form1.resources
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Properties.Resources.resources
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.GenerateResource.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.CoreCompileInputs.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.exe
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.pdb
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe.config
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.pdb
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.AssemblyReference.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.SuggestedBindingRedirects.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Form1.resources
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Properties.Resources.resources
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.GenerateResource.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.CoreCompileInputs.cache
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.exe
+C:\Users\11PGPS2\Desktop\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.pdb
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe.config
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.pdb
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.AssemblyReference.cache
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.SuggestedBindingRedirects.cache
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Form1.resources
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Properties.Resources.resources
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.GenerateResource.cache
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.CoreCompileInputs.cache
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.exe
+E:\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.pdb
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe.config
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.exe
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\bin\Debug\M7 ficheiros progeto final.pdb
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.AssemblyReference.cache
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.SuggestedBindingRedirects.cache
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Form1.resources
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7_ficheiros_progeto_final.Properties.Resources.resources
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.GenerateResource.cache
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.csproj.CoreCompileInputs.cache
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.exe
+E:\Psi\M7 ficheiros progeto final (Vfinal)\M7 ficheiros progeto final\obj\Debug\M7 ficheiros progeto final.pdb
